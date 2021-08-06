@@ -1,4 +1,4 @@
-👋 Hi, I’m TJ Pavaritpong, a Statistics & Computer Science undergrad at the University of Illinois Urbana-Champaign.
+👋 Hi, I’m TJ Pavaritpong, a Statistics & Computer Science undergrad at the University of Illinois Urbana-Champaign, graduating in 2024.
 
 👀 I’m interested in web dev, data science, and machine learning.
 
