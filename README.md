@@ -2,7 +2,7 @@
 
 👀 I’m interested in web dev, data science, and machine learning.
 
-🌱 I’m currently learning Data Structures & Algorithms. Also learning Python/Flask, Javascript, and React.
+🌱 I’m currently learning Data Structures & Algorithms and Python.
 
 
 💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/)
