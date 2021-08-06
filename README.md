@@ -21,8 +21,8 @@
   
 ## Github Stats  
   <a href="https://github.com/teetajp/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&theme=monokai" />
   </a>
   <a href="https://github.com/teetajp/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&theme=monokai" />
   </a>
