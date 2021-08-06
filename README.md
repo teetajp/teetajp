@@ -20,5 +20,9 @@
   
   
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=teetajp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
+  <a href="https://github.com/teetajp/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp" />
+  </a>
+  <a href="https://github.com/teetajp/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact" />
+  </a>
