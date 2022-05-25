@@ -4,8 +4,6 @@
 
 👀 I’m interested in web dev, data science, and machine learning.
 
-🌱 I’m currently learning Princeton's Algorithms I by Robert Sedgewick and Kevin Wayne on Coursera.
-
 
 💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/)
 
