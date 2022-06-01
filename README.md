@@ -18,9 +18,9 @@
 </a>
   
 ## Github Stats  
-  <a href="https://github.com/teetajp/">
+<!--   <a href="https://github.com/teetajp/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&theme=monokai" />
-  </a>
+  </a> -->
   <a href="https://github.com/teetajp/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&theme=monokai" />
   </a>
