@@ -7,7 +7,7 @@
 
 <!-- 💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/) -->
 
-📫 How to reach me: teetaj.pavaritpong@gmail.com
+📫 Reach me at: <a href="mailto:tj.pavaritpong@gmail.com">tj.pavaritpong@gmail.com</a>
 
 <div align="left">
 <!-- <a href="https://github.com/teetajp" target="_blank">
