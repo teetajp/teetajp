@@ -5,7 +5,7 @@
 👀 I’m interested in web dev, data science, and machine learning.
 
 
-<!-- 💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/) -->
+💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/)
 
 📫 Reach me at: <a href="mailto:tj.pavaritpong@gmail.com">tj.pavaritpong@gmail.com</a>
 
