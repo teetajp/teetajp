@@ -1,4 +1,4 @@
-### Hi, I'm [TJ Pavaritpong!](https://teetajp.github.io) 👋
+## Hi, I'm [TJ Pavaritpong!](https://teetajp.github.io) 👋
 
 📚 I'm a Statistics & Computer Science undergrad at the University of Illinois Urbana-Champaign, graduating in 2024.
 
@@ -18,7 +18,7 @@
 ## Languages
 <!-- <p align="center"> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,cpp,js,ts,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,r&theme=light" />
   </a>
 <!-- </p> -->
   
@@ -36,7 +36,7 @@
   
 <!-- <p align="center"> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,gcp,git,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,gcp,git&theme=light" />
   </a>
 <!-- </p> -->
 
