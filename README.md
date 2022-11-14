@@ -41,11 +41,5 @@
 <!-- </p> -->
 
 ## Github Stats  
-<table><tr><td style="border:none" valign="top" width="50%">
-  <a href="https://github.com/teetajp/">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=teetajp&theme=monokai&show_icons=true&include_all_commits=true&amp;count_private=true" alt="teetajp" />
-</td>
-<td style="border:none" valign="top" width="50%">
-  <a href="https://github.com/teetajp/">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=teetajp&show_icons=true&locale=en&hide=CSS,SCSS&layout=compact&langs_count=5&theme=monokai" alt="teetajp" />
-</td></tr></table>
+| <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&show_icons=true&include_all_commits=true&count_private=true&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false" alt="TJ's github stats" /></a> | <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&langs_count=7&locale=en&hide=CSS,SCSS" /></a> |
+| ------------- | ------------- |  
