@@ -22,7 +22,7 @@
   </a>
 <!-- </p> -->
   
-## Frameworks, Tools, and Technologies
+## Frameworks and Tools
 
 </div>
 <!-- <p align="center"> -->
