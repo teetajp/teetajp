@@ -15,14 +15,14 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   
   
-## Languages
+### Languages
 <!-- <p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,r&theme=light" />
   </a>
 <!-- </p> -->
   
-## Frameworks
+### Frameworks
 
 </div>
 <!-- <p align="center"> -->
@@ -32,7 +32,7 @@
 <!-- </p> -->
   
   
-## Tools and Technologies
+### Tools and Technologies
   
 <!-- <p align="center"> -->
   <a href="https://skillicons.dev">
@@ -40,6 +40,6 @@
   </a>
 <!-- </p> -->
 
-## Github Stats  
+### Github Stats  
 | <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&show_icons=true&include_all_commits=true&count_private=true&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false" alt="TJ's github stats" /></a> | <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&langs_count=7&locale=en&hide=CSS,SCSS" /></a> |
 | ------------- | ------------- |  
