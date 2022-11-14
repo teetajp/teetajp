@@ -16,29 +16,29 @@
   
   
 ## Languages
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,cpp,js,ts,html,css&theme=light" />
   </a>
-</p>
+<!-- </p> -->
   
 ## Frameworks
 
 </div>
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,materialui,nodejs&theme=light" />
   </a>
-</p>
+<!-- </p> -->
   
   
 ## Tools and Technologies
   
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,gcp,git,materialui&theme=light" />
   </a>
-</p>
+<!-- </p> -->
 
 ## Github Stats  
 <table><tr><td style="border:none" valign="top" width="50%">
