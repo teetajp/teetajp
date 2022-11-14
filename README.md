@@ -47,5 +47,5 @@
 </td>
 <td style="border:none" valign="top" width="50%">
   <a href="https://github.com/teetajp/">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=teetajp&show_icons=true&locale=en&layout=compact&langs_count=7&theme=monokai" alt="teetajp" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=teetajp&show_icons=true&locale=en&hide=CSS,SCSS&layout=compact&langs_count=5&theme=monokai" alt="teetajp" />
 </td></tr></table>
