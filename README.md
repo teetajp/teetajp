@@ -38,6 +38,6 @@
 
 ---
 ### Github Stats  
-| <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&show_icons=true&include_all_commits=true&count_private=true&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false" alt="TJ's github stats" /></a> | <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&langs_count=7&locale=en&hide=CSS,SCSS" /></a> |
+| <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teetajp&show_icons=true&include_all_commits=true&count_private=true&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&exclude_repo=leetcode" alt="TJ's github stats" /></a> | <a href="https://github.com/teetajp"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teetajp&layout=compact&title_color=FF5F05&text_color=13294B&icon_color=009FD4&bg_color=F8FAFC&hide_border=false&langs_count=7&locale=en&hide=CSS,SCSS" /></a> |
 | ------------- | ------------- |  
 | <a href="https://leetcode.com/teetajp/">![LeetCode Stats](https://leetcard.jacoblin.cool/teetajp?theme=light&font=Fira%20Code&ext=heatmap) | <div align="center"><h3>Goals for 1 January 2023</h3><h4>Easy / Medium / Hard</h4><p>100 / 50 / 0</p></div>|
