@@ -17,7 +17,7 @@ Currently learning: Functioning Programming, Scala, and Spark
   
 ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,redux,materialui,nodejs,mysql,gcp,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=scala,py,cpp,js,ts,html,css,react,redux,materialui,nodejs,mysql,gcp,git&theme=light" />
   </a>
 
 <!-- ---  -->
