@@ -14,7 +14,7 @@ Currently learning: Functioning Programming, Scala, and Spark
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="mailto:tj.pavaritpong@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
---- 
+  
 ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,redux,materialui,nodejs,mysql,gcp,git&theme=light" />
