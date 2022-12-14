@@ -6,7 +6,7 @@
 
 💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/)
 
-Currently learning: Functioning Programming, Scala, and Spark
+🧠 Currently learning: Functioning Programming, Scala, and Spark
 
 📫 Reach me below:
 <div align="left">
