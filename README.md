@@ -4,7 +4,7 @@
 
 👀 I’m interested in web dev, data science, and machine learning.
 
-💻 Check out my website at [https://teetajp.github.io](https://teetajp.github.io/)
+💻 Check out my website at [https://teetajp.github.io](https://pavaritpong.com)
 
 💡 Currently learning: Functioning Programming, Scala, and Spark
 
