@@ -6,7 +6,7 @@
 
 💻 Check out my website at [https://pavaritpong.com](https://pavaritpong.com)
 
-💡 Currently learning: Functioning Programming, Scala, and Spark
+💡 Currently reading: The Algorithm Design Manual by Steven Skiena
 
 📫 Reach me below:
 <div align="left">
