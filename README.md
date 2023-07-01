@@ -6,7 +6,7 @@
 
 💻 Check out my website at [https://pavaritpong.com](https://pavaritpong.com)
 
-💡 Currently learning/reading: Grokking the Coding Interview: Patterns for Coding Questions
+<!--💡 Currently learning/reading: Grokking the Coding Interview: Patterns for Coding Questions -->
 
 📫 Reach me below, </a> or email me at <a href="mailto:tj.pavaritpong@gmail.com" target="_blank">here</a>:
 <div align="left">
