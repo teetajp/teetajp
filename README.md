@@ -2,7 +2,7 @@
 
 📚 I'm a Statistics & Computer Science undergrad at the University of Illinois Urbana-Champaign, graduating in December 2024.
 
-👀 Interested in algorithmic game theory, mechanism design, operations research, artificial intelligence, multi-agent systems, and cognitive science. I also like quantitative trading and data science.
+<!-- 👀 Interested in algorithmic game theory, mechanism design, operations research, artificial intelligence, multi-agent systems, and cognitive science. I also like quantitative trading and data science. -->
 
 💻 Check out my website at [https://pavaritpong.com](https://pavaritpong.com)
 
