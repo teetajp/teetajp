@@ -19,7 +19,7 @@
 
 ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,js,html,css,react,nodejs,mysql,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,r,cpp,js,html,css,react,nodejs,mysql,git&theme=light" />
   </a>
 
 <!-- ---  -->
