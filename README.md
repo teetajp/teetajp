@@ -8,7 +8,7 @@
 
 <!--💡 Currently learning/reading: Grokking the Coding Interview: Patterns for Coding Questions -->
 
-📫 Reach me below, </a> or email me at <a href="mailto:tj.pavaritpong@gmail.com" target="_blank">here</a>:
+<!-- 📫 Reach me below, </a> or email me at <a href="mailto:tj.pavaritpong@gmail.com" target="_blank">here</a>: -->
 <div align="left">
 <a href="https://linkedin.com/in/tj-pavaritpong" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -17,10 +17,11 @@
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 
 
-### :hammer_and_wrench: Languages, Frameworks, and Tools
+<!-- ### :hammer_and_wrench: Languages, Frameworks, and Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,c,scala,js,html,css,react,nodejs,mysql,git&theme=light" />
   </a>
+-->
 
 <!-- ---  -->
 <!-- ### :hammer_and_wrench: Frameworks and Tools : -->
