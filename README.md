@@ -9,8 +9,8 @@
 <!-- 📫 Reach me below, </a> or email me at <a href="mailto:tj.pavaritpong@gmail.com" target="_blank">here</a>: -->
 <div align="left">
 <!-- <a href="https://linkedin.com/in/tj-pavaritpong" target="_blank"> -->
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<!--   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> -->
 <!-- <a href="https://pavaritpong.com" target="_blank">
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" /> -->
 
