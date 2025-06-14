@@ -1,6 +1,4 @@
-## Hi, I'm [TJ Pavaritpong!](https://pavaritpong.com) 👋
-
-📚 I'm a Statistics & Computer Science undergrad at the University of Illinois Urbana-Champaign, graduating in December 2024.
+## Hi, I'm TJ Pavaritpong 👋
 
 <!-- 👀 Interested in algorithmic game theory, mechanism design, operations research, artificial intelligence, multi-agent systems, and cognitive science. I also like quantitative trading and data science. -->
 
